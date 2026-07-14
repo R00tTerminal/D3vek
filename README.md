@@ -30,7 +30,7 @@
 ---
 
 ## 📸 Podgląd
+<img width="1806" height="880" alt="obraz" src="https://github.com/user-attachments/assets/f3a5a3d3-351a-4852-b03a-80e8d51e43b7" />
 
-(Tutaj GIF lub zrzut ekranu)
 
 ...
