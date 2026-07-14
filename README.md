@@ -2,10 +2,10 @@
 
 > Nowoczesny, otwartoźródłowy zestaw narzędzi dla programistów.
 
-![License](https://img.shields.io/github/license/TWOJ_LOGIN/devek)
-![Release](https://img.shields.io/github/v/release/TWOJ_LOGIN/devek)
-![Stars](https://img.shields.io/github/stars/TWOJ_LOGIN/devek)
-![Downloads](https://img.shields.io/github/downloads/TWOJ_LOGIN/devek/total)
+![License](https://img.shields.io/github/license/R00tTerminal/devek)
+![Release](https://img.shields.io/github/v/release/R00tTerminal/devek)
+![Stars](https://img.shields.io/github/stars/R00tTerminal/devek)
+![Downloads](https://img.shields.io/github/downloads/R00tTerminal/devek/total)
 ![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-blue)
 
 
